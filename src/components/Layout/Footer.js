@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Abdul-Fortheye
+          All Rights Reserved &copy; Abdul Salam
         </Typography>
       </Box>
     </>
